@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Pushpa A.P. | Portfolio</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet" />
+  <style>
+    body {
+      font-family: 'Inter', sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f4f4f9;
+      color: #333;
+    }
+    header {
+      background: #1a73e8;
+      color: #fff;
+      padding: 1.5rem;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+    }
+    section {
+      padding: 2rem;
+      max-width: 900px;
+      margin: auto;
+      background: white;
+      margin-top: 1rem;
+      border-radius: 10px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+    h2 {
+      color: #1a73e8;
+      margin-top: 0;
+    }
+    ul {
+      padding-left: 1.2rem;
+    }
+    a {
+      color: #1a73e8;
+      text-decoration: none;
+    }
+    .socials a {
+      display: inline-block;
+      margin-right: 10px;
+    }
+    footer {
+      text-align: center;
+      padding: 1rem;
+      font-size: 0.9rem;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Pushpa A.P.</h1>
+  <p>B.Tech in Computer Science | Alliance University</p>
+</header>
+
+<section>
+  <h2>Contact</h2>
+  <p>Email: <a href="mailto:sample@alliance.edu.in">sample@alliance.edu.in</a></p>
+  <p>Phone: +91-8919467021</p>
+  <div class="socials">
+    <a href="https://www.linkedin.com/in/pushpa-a-p-9o" target="_blank">LinkedIn</a> |
+    <a href="https://Pushpa-raga.com/github" target="_blank">GitHub</a> |
+    <a href="https://leetcode.com/u/Pushpa_raga/" target="_blank">LeetCode</a> |
+    <a href="https://www.hackerrank.com/@rpushpabtech22" target="_blank">HackerRank</a> |
+    <a href="https://www.stopstalk.com/" target="_blank">StopStalk</a>
+  </div>
+</section>
+
+<section>
+  <h2>Education</h2>
+  <ul>
+    <li><strong>B.Tech in Computer Science</strong>, Alliance University, CGPA: 6.18 (2026)</li>
+    <li><strong>12th Grade</strong>, Deeksha College, 89.7% (2022)</li>
+    <li><strong>10th Grade</strong>, Ridge School, 70.2% (2020)</li>
+  </ul>
+</section>
+
+<section>
+  <h2>Technical Skills</h2>
+  <ul>
+    <li>Languages: C, Python</li>
+    <li>Web: HTML, CSS, JavaScript, XAMPP</li>
+    <li>Databases: MySQL, MongoDB</li>
+    <li>Tools: GitHub, Linux, VS Code</li>
+    <li>Others: Microsoft Azure, Data Structures, OOPs</li>
+  </ul>
+</section>
+
+<section>
+  <h2>Projects</h2>
+  <ul>
+    <li><strong>Crop Fertilizer Prediction</strong> – Machine Learning</li>
+    <li><strong>Fraud Detection</strong> – Big Data Analytics</li>
+    <li><strong>Other Project</strong> – Tech Stack used</li>
+  </ul>
+</section>
+
+<section>
+  <h2>Certifications</h2>
+  <ul>
+    <li>Data Analysis with Python – Coursera (2024)</li>
+    <li>Data Analytics Essentials – CISCO (2025)</li>
+    <li>Deloitte Data Analytics Job Simulation (2024)</li>
+  </ul>
+</section>
+
+<section>
+  <h2>Achievements & Participation</h2>
+  <ul>
+    <li>Presented paper on [Topic] at [Event/Institute] – [Year]</li>
+    <li>Participated in Hackathon / Ideathon organized by [Company/College]</li>
+    <li>4★ on HackerRank (C++)</li>
+    <li>Solved 300+ problems on LeetCode</li>
+  </ul>
+</section>
+
+<section>
+  <h2>Video Resume / Portfolio</h2>
+  <p>Coming Soon...</p>
+</section>
+
+<footer>
+  &copy; 2025 Pushpa A.P. | Built with HTML & CSS
+</footer>
+
+</body>
+</html>
